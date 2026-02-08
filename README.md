@@ -6,8 +6,8 @@ Newskin skin videojs v8
 
 ```
 html
-<link href="https://unpkg.com/video.js@7.3.0/dist/video-js.min.css" rel="stylesheet">
-    <script src="https://unpkg.com/video.js@7.3.0/dist/video.min.js"></script>
+<link href="https://unpkg.com/video.js@8.23.7/dist/video-js.min.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js@8.23.7/dist/video.min.js"></script>
 <script src="Newskin.js"></script>
 
 <video id="player" class="video-js Newskin"></video>
