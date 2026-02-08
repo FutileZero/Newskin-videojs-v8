@@ -1,7 +1,7 @@
 # Newskin-videojs-v8
 
 Newskin skin videojs v8
-<img src="https://raw.githubusercontent.com/maluklo/Newskin-videojs-v6-v7/master/Newskin.png">
+<img src="https://raw.githubusercontent.com/FutileZero/Newskin-videojs-v8/refs/heads/main/Newskin.png">
 ### Quick Start
 
 ```
